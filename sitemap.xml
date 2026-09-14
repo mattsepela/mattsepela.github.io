@@ -1,18 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://mattsepe.la/about</loc>
-    <lastmod>2026-09-14T04:23:56.786Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.606Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/ai-llm/</loc>
-    <lastmod>2026-09-14T04:23:56.787Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.607Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/ai-llm/spec-driven-design</loc>
     <lastmod>2026-09-12T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/all</loc>
-    <lastmod>2026-09-14T04:23:56.787Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.607Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/colophon</loc>
-    <lastmod>2026-09-14T04:23:56.787Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.607Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/homelab/detection-pipeline</loc>
     <lastmod>2026-09-14T00:00:00.000Z</lastmod>
@@ -21,13 +21,13 @@
     <lastmod>2026-09-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/homelab/</loc>
-    <lastmod>2026-09-14T04:23:56.793Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.613Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/homelab/observability-pipeline</loc>
     <lastmod>2026-09-14T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/</loc>
-    <lastmod>2026-09-14T04:23:56.793Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.613Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/lakota-cyber-academy/building-your-first-resume</loc>
     <lastmod>2026-09-02T00:00:00.000Z</lastmod>
@@ -36,7 +36,7 @@
     <lastmod>2026-09-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/lakota-cyber-academy/</loc>
-    <lastmod>2026-09-14T04:23:56.794Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/lakota-cyber-academy/interviewing-for-internships</loc>
     <lastmod>2026-09-02T00:00:00.000Z</lastmod>
@@ -45,10 +45,10 @@
     <lastmod>2026-09-12T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/projects</loc>
-    <lastmod>2026-09-14T04:23:56.794Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/random/</loc>
-    <lastmod>2026-09-14T04:23:56.794Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/random/note-taking</loc>
     <lastmod>2026-09-02T00:00:00.000Z</lastmod>
@@ -57,38 +57,38 @@
     <lastmod>2026-09-13T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/security/</loc>
-    <lastmod>2026-09-14T04:23:56.794Z</lastmod>
+    <lastmod>2026-09-14T04:26:24.615Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/posts.base</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.613Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/software-design</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/ai</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/workflow</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/homelab</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/security</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/kubernetes</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/lakota-cyber-academy</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/knowledge-management</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/obsidian</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url><url>
     <loc>https://mattsepe.la/tags/</loc>
-    <lastmod>2026-09-14T04:24:10.531Z</lastmod>
+    <lastmod>2026-09-14T04:26:39.614Z</lastmod>
   </url></urlset>
